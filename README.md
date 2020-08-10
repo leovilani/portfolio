@@ -19,6 +19,6 @@ Aqui meus projetos:
 Veja meus projetos para competições do Kaggle.
 
 * **Titanic: Machine Learning from Disaster:** https://bit.ly/31zgyF3
-  - Projeto em que utilizei modelos de Machine Learning (RandomForestClassifier e XGBoostClassifier), análise exploratória dos dados, feature engineering, validação dos modelos com cross validation (StratifiedKFold) e otimização de parametros (GridSearchCV).
+  - Projeto de classificação com modelos de Machine Learning (RandomForestClassifier e XGBoostClassifier), análise exploratória dos dados, feature engineering, validação dos modelos com cross validation (StratifiedKFold) e otimização de parametros (GridSearchCV).
 
 ---
