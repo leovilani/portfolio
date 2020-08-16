@@ -24,4 +24,7 @@ Veja meus projetos para competições do Kaggle.
 * **House Prices:** https://bit.ly/3gOpFIl
   - Projeto de regressão linear com modelos de Machine Learning (RandomForestRegressor e XGBoostRegressor), análise exploratória dos dados, feature engineering, validação dos modelos com cross validation (KFold) e otimização de parâmetros (GridSearchCV).
 
+* **NLP with Disaster Tweets:** https://bit.ly/3gZTMwk
+  - Projeto de Processamento de Linguagem Natural com rede neural (Keras), utlizando o GloVe como Word2Vec, validação de modelo (classification report).
+
 ---
