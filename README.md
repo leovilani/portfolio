@@ -4,8 +4,7 @@
 <sub>*Ciências da Computação*</sub>
 
 Recém-formado em Ciências da Computação, e apaixonado por Inteligência Artificial, busco oportunidade para adquirir experiência com Data Science e Machine Learning.
-Prezo sempre trabalhar em equipe, cooperando com todos da melhor maneira possível.
-Busco oportunidade profissional que permita o meu crescimento intelectual, profissional e técnico.
+Aqui se encontra meus projetos, onde estou estudando e praticando.
 
 **Conhecimentos:** Python, Machine Learning, Data Science, Deep Learning, Keras.
 
