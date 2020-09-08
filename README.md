@@ -3,9 +3,11 @@
 # Leonardo Vilani Selan
 <sub>*Ciências da Computação*</sub>
 
-Aqui escrever sobre mim.
+Recém-formado em Ciências da Computação, e apaixonado por Inteligência Artificial, busco oportunidade para adquirir experiência com Data Science e Machine Learning.
+Prezo sempre trabalhar em equipe, cooperando com todos da melhor maneira possível.
+Busco oportunidade profissional que permita o meu crescimento intelectual, profissional e técnico.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Conhecimentos:** Python, Machine Learning, Data Science, Deep Learning, Keras.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leonardo-vilani-selan/)
@@ -13,7 +15,7 @@ Aqui escrever sobre mim.
 
 
 ## Projetos:
-Aqui meus projetos:
+Aqui meus projetos pessoais:
 
 ## Competições Kaggle:
 Veja meus projetos para competições do Kaggle.
