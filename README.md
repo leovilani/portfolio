@@ -16,6 +16,9 @@ Aqui se encontra meus projetos, onde estou estudando e praticando.
 ## Projetos:
 Aqui meus projetos pessoais:
 
+* **Prevendo mortes por insuficiência cardíaca usando Machine Learning:** https://bit.ly/2ZyNKfn
+  - Projeto de Machine Learning onde tento prever mortes por insuficiência cardíaca usando um dataset de um estudo médico, entendendo o problema e utilizando de análises exploratórias, além de fazer testes com alguns algoritmos.
+
 ## Competições Kaggle:
 Veja meus projetos para competições do Kaggle.
 
