@@ -35,6 +35,6 @@ Veja meus projetos para competições do Kaggle.
   - Projeto de Processamento de Linguagem Natural com rede neural (Keras), utlizando o GloVe como Word2Vec, validação de modelo (classification report).
   
 * **Digit Recognizer:** https://bit.ly/3gguUPL
-  - Projeto de classificação de imagens com rede neural (Keras).
+  - Projeto de classificação de imagens de números escritos a mão, com rede neural (Keras).
 
 ---
