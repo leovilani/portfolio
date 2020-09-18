@@ -19,7 +19,7 @@ Aqui meus projetos pessoais:
 * **Prevendo mortes por insuficiência cardíaca usando Machine Learning:** https://bit.ly/2ZyNKfn
   - Projeto de Machine Learning onde tento prever mortes por insuficiência cardíaca usando um dataset de um estudo médico, entendendo o problema e utilizando de análises exploratórias, além de fazer testes com alguns algoritmos.
   
-* **Classificando imagens de Cachorros e Gatos:** https://bit.ly/2FS58Vp
+* **Classificando imagens de Cachorros e Gatos:** 
   - Pequeno projeto de classificação de imagens usando CNN com Keras, classificando cachorros ou gatos.
 
 ## Competições Kaggle:
