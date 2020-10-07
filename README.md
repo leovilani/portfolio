@@ -19,7 +19,7 @@ Aqui meus projetos pessoais:
 * **Prevendo mortes por insuficiência cardíaca usando Machine Learning:** https://bit.ly/2ZyNKfn
   - Projeto de Machine Learning onde tento prever mortes por insuficiência cardíaca usando um dataset de um estudo médico, entendendo o problema e utilizando de análises exploratórias, além de fazer testes com alguns algoritmos.
   
-  * **Análise Covid-19 no Mundo (5/10/20):** https://bit.ly/3izgg7q
+* **Análise Covid-19 no Mundo (5/10/20):** https://bit.ly/3izgg7q
   - Análise básica do Covid-19, usando gráficos interativos gerados com o Plotly.
   
 * **Classificando imagens de Cachorros e Gatos:** https://bit.ly/2Es1Vf6
