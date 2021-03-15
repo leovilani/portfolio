@@ -16,6 +16,9 @@ Aqui se encontra meus projetos, onde estou estudando e praticando.
 ## Projetos:
 Aqui meus projetos pessoais:
 
+* **Previsão de series temporais com Prophet:** https://bit.ly/2PYZXIo
+  - Neste projeto trabalhei com series temporais, fazendo análises e previsôes com a ferramenta Prophet. O dataset é de um centro de adoções trabalhei com a adoções dos animais.
+
 * **Prevendo mortes por insuficiência cardíaca usando Machine Learning:** https://bit.ly/2ZyNKfn
   - Projeto de Machine Learning onde tento prever mortes por insuficiência cardíaca usando um dataset de um estudo médico, entendendo o problema e utilizando de análises exploratórias, além de fazer testes com alguns algoritmos.
   
