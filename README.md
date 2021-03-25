@@ -16,6 +16,9 @@ Aqui se encontra meus projetos, onde estou estudando e praticando.
 ## Projetos:
 Aqui meus projetos pessoais:
 
+* **Previsão de Churn de Clientes:** https://bit.ly/3lUr5Ey
+  - Neste projeto utilizei Ensemble de algoritmos de Machine Learning para previsão de churn de clientes de um banco.
+
 * **Previsão de series temporais com Prophet:** https://bit.ly/2PYZXIo
   - Neste projeto trabalhei com series temporais, fazendo análises e previsões com a ferramenta Prophet. O dataset é de um centro de adoções e trabalhei com a saída dos animais.
 
@@ -24,9 +27,6 @@ Aqui meus projetos pessoais:
   
 * **Dashboard interativo Covid-19 no Mundo e América do Sul:** https://bit.ly/3dT1XvC
   - Dashboard Covid-19, usando a ferramenta Streamlit, deploy feito com o Share do Streamlit e gráficos interativos gerados com o Plotly.
-  
-* **Classificando imagens de Cachorros e Gatos:** https://bit.ly/2Es1Vf6
-  - Pequeno projeto de classificação de imagens usando CNN com Keras, classificando cachorros ou gatos.
 
 ## Competições Kaggle:
 Veja meus projetos para competições do Kaggle.
