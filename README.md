@@ -16,6 +16,9 @@ Aqui se encontra meus projetos, onde estou estudando e praticando.
 ## Projetos:
 Aqui meus projetos pessoais:
 
+* **Web Scraping de uma livraria:** https://bit.ly/3u2gfyG
+  - Web Scraping em um site de livros usando a ferramenta Scrapy e salvando em um arquivo csv.
+
 * **Previsão de Churn de Clientes:** https://bit.ly/3lUr5Ey
   - Neste projeto utilizei Ensemble de algoritmos de Machine Learning para previsão de churn de clientes de um banco.
 
